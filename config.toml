@@ -4,7 +4,6 @@ languageCode = "en-us"
 title = "Hugo Freelancer Theme"
 theme = "theme-artavis"
 
-
 [params]
 
     # You can use Markdown syntax for urls [text](//url.to/source) for
